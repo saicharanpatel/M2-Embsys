@@ -1,6 +1,6 @@
 |S.NO|  COMPONENTS     |
 |:----| --------------:|
-|1|AVR Microcontroller|
+|1|ATmega8AVR Microcontroller|
 |2|Fingerprint module R305|
 |3|Keypad (4*3)|
 |4|Atmega8 microcontroller|
