@@ -20,4 +20,4 @@ This paper is presented about a system of recording student attendance using fin
 8) Keypad is used to send the requests to the controller either enroll the new one or to save the attendance or to exit.
 
 
-###### LCD DISPLAY displays the messages related to the commands received
+###### LCD DISPLAY displays the messages related to the commands received.
