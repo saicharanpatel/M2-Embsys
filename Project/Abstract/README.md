@@ -16,8 +16,8 @@ This paper is presented about a system of recording student attendance using fin
 6)This sends commands to the controller when ever finger print is matched. 
 
 7)Microcontroller receives these commands from the finger print module and uses the internal EEPROM to store the attendance. 
-8
-)Keypad is used to send the requests to the controller either enroll the new one or to save the attendance or to exit.
+
+8)Keypad is used to send the requests to the controller either enroll the new one or to save the attendance or to exit.
 
 
-*LCD DISPLAY displays the messages related to the commands received*
+######LCD DISPLAY displays the messages related to the commands received
