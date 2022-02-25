@@ -17,4 +17,4 @@
 )Keypad is used to send the requests to the controller either enroll the new one or to save the attendance or to exit.
 
 
-*LCD display displays the messages related to the commands received*
+*LCD DISPLAY displays the messages related to the commands received*
