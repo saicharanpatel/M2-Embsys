@@ -1,3 +1,12 @@
+# Biometric Attendance System
+
+## TABLE OF CONTENTS
+    1) COMPONENTS USED
+    2)SWOT ANALYSIS
+
+
+## COMPONENTS USED
+
 |S.NO|  COMPONENTS     |
 |:----| --------------:|
 |1|AVR microcontroller development board|
@@ -27,4 +36,19 @@
 # SWOT ANALYSIS
 
 ## STRENGTH
-1) 
+1) computerized system that reduces the workload of the users in managing the
+attendance records. 
+2) Compared to the traditional attendance system, it offered costeffectiveness since it reduces the paper needed to process the data of the student attendance records. 
+3) In addition, it will also help the lecturers save up a lot of time in recording the attendance of the students throughout the whole semester.
+
+## WEAKNESS
+1)However, there is some drawback that can found from the solution in using desktop-based student attendance system. First of all, the system will still require the lecturers to key-in student attendance records in every class. 
+2)Although the system had developed to be work in computerization, but it still require computer operator to manage the storing and retrieving of information frequently. So, the proposed system had only converted the traditional attendance system to computerization but everything still have to be done manually such as key-in student attendance and etc. 
+
+## OPPORTUNITIES
+1) There is a very good market for this product. Because world is moving towards technology in every ascept. 
+2) Human might commit mistake while marking attendance but attendance using this only detect the correct fingerprint
+
+## Threats
+1) spoofing
+2) Manipulation of data
