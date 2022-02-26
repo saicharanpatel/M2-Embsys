@@ -1,6 +1,24 @@
 ## The main aim of this circuit is to take the attendance and display when requested
 
-The application of biometric recognition in personal authentication enables the growth of this technology to be employed in various domains. The implementation of biometric recognition systems can be based on physical or behavioral characteristics, such as the iris, voice, fingerprint, and face. Currently, the attendance tracking system based on biometric recognition for education sectors is still underutilized, thus providing a good opportunity to carry out interesting research in this area. As evidenced in a typical classroom, educators tend to take the attendance of their students by using conventional methods such as by calling out names or signing off an attendance sheet. Yet, these types of methods are proved to be time consuming and tedious, and sometimes, fraud occurs. As a result, significant progress had been made to mark attendance automatically by making use of biometric recognition. This progress enables a new and more advanced biometric-based attendance system being developed over the past ten years. The setting-up of biometric-based attendance systems requires both software and hardware components. Since the software and hardware sections are too broad to be discussed in one paper, this literature survey only provides an overview of the types of hardware used. Emphasis is then placed on the microcontroller platform, biometric sensor, communication channel, database storage, and other components in order to assist future researchers in designing the hardware part of biometric-based attendance systems.
+Abstract - This research work has application for attendance system of employer's and students in general. The system will facilitate institutions! organization to make attendance individual in time along with data information thumb impression will be taken as a signature for the system entry. Main design and challenge in this system is the design of database architecture and its business logic.
+###### I. AIMS AND OBJECTIVE
+The aim of this system is to implement in C#.net set of reliable techniques for fingerprint image enhancement and
+minutiae extraction. The performance of these techniques will be evaluated on a fingerprint data set.
+In combination with these development techniques, statistical experiments can then be performed on the fingerprint data set. The results from these experiments can be used to help us better understand what is involved in determining the statistical uniqueness of fingerprint minutiae.
+
+The main aim that this system would test whether attendance by fingerprint is enough for identification. It is expected that the work in this system will reach the stage of being able to fully test hypothesis.
+###### II. BACKGROUND/CONTEXT
+Fingerprints are the oldest form of biometric identification. Modem fingerprint based identification is used in forensic science, and in biometric systems such as civilian identification devices. Despite the widespread use of
+fingerprints, there is little statistical theory on the uniqueness of fingerprint minutiae. A fingerprint is formed from an impression on a surface of composite curve segments. A ridge is defined as a single curved segment, and a valley is the region between two adjacent ridges. The minutiae, which are the local discontinuities in the ridge flow pattern, provide the details of the ridge-valley structures, like ridge endings and bifurcations. There are 50 to 150 minutiae on a single fingerprint image. Features such as the type, direction, and location of minutiae
+are taken into account when performing minutiae extraction. The work of F.Galton defined a set of Galton Features for fingerprint identification, which since then, has been refines and extended to include additional types of fingerprint features. However, most of these features are not used in automatic fingerprint identification systems. Instead the set of minutiae types are restricted into only two types, ridge endings and bifurcations, as other types of minutiae can be expressed in terms of these two features types. Ridge endings are the points where the ridge curves terminates, and bifurcations are where a ridge splits from a single path to two paths at a Y-junction.
+###### Problem
+There are some problems which face by fingerprint recognition or identification security. We can catch a cold by
+touching a biometric system (fingerprint).
+• Twins have identical biometric traits (identical fingerprints, irises ... ). This is the same clones.
+• Stolen body parts can be reused.
+• Biometric features can be reconstructed from the template
+• Making a fake finger is easy.
+
 
 1) Finger print identification is based on the fact that no two persons will have the same finger print in this world. 
 
