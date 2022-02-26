@@ -5,7 +5,7 @@
     2)SWOT ANALYSIS
 
 
-## COMPONENTS USED
+## 1)COMPONENTS USED
 
 |S.NO|  COMPONENTS     |
 |:----| --------------:|
@@ -33,7 +33,7 @@
 
 
 
-# SWOT ANALYSIS
+# 2)SWOT ANALYSIS
 
 ## STRENGTH
 1) computerized system that reduces the workload of the users in managing the
