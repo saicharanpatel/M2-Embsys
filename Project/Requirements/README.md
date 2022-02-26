@@ -9,7 +9,7 @@
 |7|RS232 Serial cable|
 |8|Single pi connecting wires|
 
-![images](https://user-images.githubusercontent.com/70833253/155767651-30cc2a5d-5bbb-4365-b35c-07bcb68abe38.jpg)
+![images](https://user-images.githubusercontent.com/70833253/155767651-30cc2a5d-5bbb-4365-b35c-07bcb68abe38.jpg)                                        ![download](https://user-images.githubusercontent.com/70833253/155766054-110c3481-2635-4178-8d2b-b4c82ab7b553.jpg)
 
 ![download](https://user-images.githubusercontent.com/70833253/155766054-110c3481-2635-4178-8d2b-b4c82ab7b553.jpg)
 
@@ -25,4 +25,3 @@
 
 
 # SWOT ANALYSIS
- 
