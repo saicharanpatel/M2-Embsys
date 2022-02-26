@@ -19,7 +19,7 @@ touching a biometric system (fingerprint).
 • Biometric features can be reconstructed from the template
 • Making a fake finger is easy.
 
-
+###### ABOUT:
 1) Finger print identification is based on the fact that no two persons will have the same finger print in this world. 
 
 2) This is because of the peculiar genetic code of DNA in each person. 
