@@ -16,10 +16,22 @@ This digital signal can be read by any microcontroller or microprocessor for fur
 
 # SWOT ANALYSIS
 ## STRENGTH
-    Affordable and very easy to installation and use
+     Affordable and very easy to installation and use
 ## WEAKNESS
      The improvements can be done in connecting with all the other devices for easy operation
 ## OPPORTUNITIES
     In industries where we need to maintain a constant temperature
 ## THREATS
      Faced problems while simulation
+
+# 4 W'S AND 1'H
+## WHO
+   For the industries and companies used for mainting a constant temperature 
+## WHAT
+   A sensor which helps the people for maintaining the temperature
+## WHEN
+   When we needs to use
+## WHERE
+   In industries,factories
+## HOW
+   By using the DHT11 Humidity and Temperature Sensor
