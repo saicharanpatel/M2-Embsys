@@ -1,10 +1,10 @@
 # CONTENTS
-## 1.Aims and Objective
-## 2.components used
-## 3.SWOT Analysis
-## 4.4W's and 1H's
-## 5.About the Project
-## 6.Working of Project & Applications
+###### 1.Aims and Objective
+###### 2.components used
+###### 3.SWOT Analysis
+###### 4.4W's and 1H's
+###### 5.About the Project
+###### 6.Working of Project & Applications
 
 ## The main aim of this circuit is to main a constant temperature in the specified area
 
