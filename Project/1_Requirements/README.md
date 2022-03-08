@@ -1,4 +1,5 @@
 ## COMPONENTS USED
+|S.NO|  COMPONENTS   |
 |:----| ------------:|
 |1|Arduino UNO|
 |2|DHT11 Temperature and Humidity Sensor|  
