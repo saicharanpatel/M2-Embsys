@@ -58,5 +58,3 @@ This digital signal can be read by any microcontroller or microprocessor for fur
 ## HOW
    By using the DHT11 Humidity and Temperature Sensor
 
-
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.electronicscomp.com%2Fimage%2Fcache%2Fcatalog%2Fdht-11-sensor-module-india-800x800.jpg&imgrefurl=https%3A%2F%2Fwww.electronicscomp.com%2Fdht11-temprature-humidity-sensor-module-india&tbnid=E97vgOJdvVCiUM&vet=12ahUKEwiCuPaNhbf2AhUeKbcAHWIADKYQMygBegUIARDZAQ..i&docid=O4BExJg950ABOM&w=800&h=800&q=dht11%20humidity%20sensor&ved=2ahUKEwiCuPaNhbf2AhUeKbcAHWIADKYQMygBegUIARDZAQ)
