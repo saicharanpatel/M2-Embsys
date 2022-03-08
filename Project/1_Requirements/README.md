@@ -13,7 +13,7 @@ DHT11 is a part of DHTXX series of Humidity sensors. The other sensor in this se
 
 The DHT11 Humidity and Temperature Sensor consists of 3 main components. A resistive type humidity sensor, an NTC (negative temperature coefficient) thermistor (to measure the temperature) and an 8-bit microcontroller, which converts the analog signals from both the sensors and sends out single digital signal.
 This digital signal can be read by any microcontroller or microprocessor for further analysis.
-![image](E:\Desktop\dht-11-sensor-module-india-800x800.jpg)
+[image](E:\Desktop\dht-11-sensor-module-india-800x800.jpg)
 
 # SWOT ANALYSIS
 ## STRENGTH
