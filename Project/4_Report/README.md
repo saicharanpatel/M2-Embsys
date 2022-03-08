@@ -11,7 +11,7 @@
 Abstract - In this project, we will build a small circuit to interface Arduino with DHT11 Temperature and Humidity Sensor. One of the main applications of connecting DTH11 sensor with Arduino is weather monitoring.
 Also we can connect this to a fan, A.c depends upon the user's usage.
 
-###### I. AIMS AND OBJECTIVE
+## I. AIMS AND OBJECTIVE
 The aim of this system is to implement in C#.net set of reliable techniques for maintaining constant Temperature .
 
 ###### Problem statement
@@ -72,7 +72,7 @@ A simple project is built using Arduino UNO and DHT11 Humidity and Temperature S
 After making the connections, we need not do anything as the program will take care of everything. Although there is a special library for the DHT11 module called “DHT”, we didn’t use it. If you want to use this library, you need to download this library separately and add it to the existing libraries of Arduino.
 
 The program written is based on the data timing diagrams provided in the datasheet. The program will make the Arduino to automatically read the data from the sensor and display it as Humidity and Temperature on the LCD Display. 
-###### Applications
+## Applications
 DHT11 Relative Humidity and Temperature Sensor can be used in many applications like:
 HVAC (Heating, Ventilation and Air Conditioning) Systems
 Weather Stations
