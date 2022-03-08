@@ -1,10 +1,10 @@
 # CONTENTS
-1.Aims and Objective]
-2.components used
-3.SWOT Analysis
-4.4W's and 1H's
-5.About the Project
-6.Working of Project
+## 1.Aims and Objective
+## 2.components used
+## 3.SWOT Analysis
+## 4.4W's and 1H's
+## 5.About the Project
+## 6.Working of Project & Applications
 
 ## The main aim of this circuit is to main a constant temperature in the specified area
 
@@ -72,3 +72,10 @@ A simple project is built using Arduino UNO and DHT11 Humidity and Temperature S
 After making the connections, we need not do anything as the program will take care of everything. Although there is a special library for the DHT11 module called “DHT”, we didn’t use it. If you want to use this library, you need to download this library separately and add it to the existing libraries of Arduino.
 
 The program written is based on the data timing diagrams provided in the datasheet. The program will make the Arduino to automatically read the data from the sensor and display it as Humidity and Temperature on the LCD Display. 
+###### Applications
+DHT11 Relative Humidity and Temperature Sensor can be used in many applications like:
+HVAC (Heating, Ventilation and Air Conditioning) Systems
+Weather Stations
+Medical Equipment for measuring humidity
+Home Automation Systems
+Automotive and other weather control applications 

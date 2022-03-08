@@ -1,2 +1,2 @@
-DHT11 Humidity and Temperature Sensor
+# DHT11 Humidity and Temperature Sensor
 
