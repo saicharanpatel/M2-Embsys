@@ -4,7 +4,7 @@
 3.SWOT Analysis
 4.4W's and 1H's
 5.About the Project
-
+6.Working of Project
 
 ## The main aim of this circuit is to main a constant temperature in the specified area
 
@@ -20,7 +20,7 @@ Nowadays Half-cooked food business is growing in a very large-scale. This indust
 Here they need constant temperature. Fluctuation of temperature may cause a very big loss to these Industries.
 For solving this problem we are here with the solution.
 
-## COMPONENTS USED
+## 2.COMPONENTS USED
 |S.NO|  COMPONENTS   |
 |:----| ------------:|
 |1|Arduino UNO|
@@ -36,7 +36,7 @@ DHT11 is a part of DHTXX series of Humidity sensors. The other sensor in this se
 The DHT11 Humidity and Temperature Sensor consists of 3 main components. A resistive type humidity sensor, an NTC (negative temperature coefficient) thermistor (to measure the temperature) and an 8-bit microcontroller, which converts the analog signals from both the sensors and sends out single digital signal.
 This digital signal can be read by any microcontroller or microprocessor for further analysis.
 
-# SWOT ANALYSIS
+# 3.SWOT ANALYSIS
 ## STRENGTH
      Affordable and very easy to installation and use
 ## WEAKNESS
@@ -46,7 +46,7 @@ This digital signal can be read by any microcontroller or microprocessor for fur
 ## THREATS
      Faced problems while simulation
 
-# 4 W'S AND 1'H
+# 4.4 W'S AND 1'H
 ## WHO
    For the industries and companies used for mainting a constant temperature 
 ## WHAT
@@ -58,10 +58,17 @@ This digital signal can be read by any microcontroller or microprocessor for fur
 ## HOW
    By using the DHT11 Humidity and Temperature Sensor
 
-## About the project
+## 5.About the project
 
 We will see the circuit design of DHT11 interfacing with Arduino. The DHT11 Humidity and Temperature sensor comes in two variants: just the sensor or a module.
 
 The main difference is that the module consists of the pull – up resistor and may also include a power on LED. We have used a module in this project and if you wish to use the sensor itself, you need to connect a 5K Ω pull – up resistor additionally.
 
 Coming to the design, the data pin of the DHT11 Sensor is connected to the Pin 11 of Arduino. A 16 x 2 LCD display is used to display the results. The control pins of LCD i.e. RS and E (Pins 4 and 6 on LCD) are connected to pins 4 and 5 of Arduino. The data pins of LCD i.e. D4 to D7 (pins 11 to 14 on LCD) are connected to pins 0 to 3 on LCD.
+
+## 6.working of the Project
+A simple project is built using Arduino UNO and DHT11 Humidity and Temperature Sensor, where the Humidity and Temperature of the surroundings are displayed on an LCD display.
+
+After making the connections, we need not do anything as the program will take care of everything. Although there is a special library for the DHT11 module called “DHT”, we didn’t use it. If you want to use this library, you need to download this library separately and add it to the existing libraries of Arduino.
+
+The program written is based on the data timing diagrams provided in the datasheet. The program will make the Arduino to automatically read the data from the sensor and display it as Humidity and Temperature on the LCD Display. 
